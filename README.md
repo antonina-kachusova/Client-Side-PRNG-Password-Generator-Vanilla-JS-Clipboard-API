@@ -1,4 +1,5 @@
 # Client-Side PRNG Password Generator (Vanilla JS + Clipboard API)
+Live Site URL: https://antonina-kachusova.github.io/Client-Side-PRNG-Password-Generator-Vanilla-JS-Clipboard-API/
 
 A lightweight, client-side password generator with live length control, toggleable character sets, and one-click copy to clipboard.
 
